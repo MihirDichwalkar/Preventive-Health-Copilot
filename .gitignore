@@ -1,0 +1,7 @@
+__pycache__/
+.env
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.vscode/
+.DS_Store
