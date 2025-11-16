@@ -113,7 +113,7 @@ You must have **Ollama** installed and running to serve the `llama3.1` model loc
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [your-repo-link]
+    git clone [repo-link]
     cd preventive-health-copilot
     ```
 2.  **Create and Activate Virtual Environment:** (Recommended)
